@@ -1,6 +1,6 @@
 ![Banner](https://github.com/ArashRabbani/ArashRabbani/blob/main/bk.gif)
 
-Hi there! this is Arash. I am an assistant professor at the University of Leeds, School of Computing. I write codes in Image Segmentation and Machine Learning for Porous Material or Cardiovascular applications. I am leading [DataFlowLab](https://dataflowlab.org) an interdisciplinary research group that tackles real-world problems of micro-scale fluid/solid interactions by harnessing the power of data-driven methods.
+Hi there! This is Arash. I am an assistant professor at the University of Leeds, School of Computing. I write codes in Image Segmentation and Machine Learning for Porous Material or Cardiovascular applications. I am leading [DataFlowLab](https://dataflowlab.org) an interdisciplinary research group that tackles real-world problems of micro-scale fluid/solid interactions by harnessing the power of data-driven methods. 
 
 ### Github Stats
 
