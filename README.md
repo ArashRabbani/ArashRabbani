@@ -5,7 +5,7 @@ Hi there! this is Arash.
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArashRabbani&theme=blueberry_duo"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArashRabbani&layout=compact&theme=github_dark"/>|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArashRabbani&layout=compact&theme=github_dark"/>
 
 ## Links
 
