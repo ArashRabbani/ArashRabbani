@@ -1,4 +1,4 @@
-![Banner](https://github.com/ArashRabbani/ArashRabbani/bk.jpg)
+![Banner](https://github.com/ArashRabbani/ArashRabbani/blob/main/bk.jpg)
 
 ## Who am I?
 
