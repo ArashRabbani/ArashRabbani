@@ -14,4 +14,4 @@
 ![](https://img.shields.io/youtube/channel/subscribers/UCYFX9iGpHemve3LiRmFQSEw?style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCYFX9iGpHemve3LiRmFQSEw?style=social)
 <br/>
-[![YT](https://img.shields.io/badge/-LinkedIn-blue)](https://www.youtube.com/channel/UCYFX9iGpHemve3LiRmFQSEw)
+[![YT](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/arash-rabbani/)
