@@ -10,8 +10,8 @@
 ## Links
 
 
-[![YT](https://img.shields.io/badge/Youtube-Channel-red)](https://www.youtube.com/channel/UCYFX9iGpHemve3LiRmFQSEw)
+[![YT](https://img.shields.io/badge/-Youtube-red)](https://www.youtube.com/channel/UCYFX9iGpHemve3LiRmFQSEw)
 ![](https://img.shields.io/youtube/channel/subscribers/UCYFX9iGpHemve3LiRmFQSEw?style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCYFX9iGpHemve3LiRmFQSEw?style=social)
 <br/>
-[![YT](https://img.shields.io/badge/Linked-In-blue)](https://www.youtube.com/channel/UCYFX9iGpHemve3LiRmFQSEw)
+[![YT](https://img.shields.io/badge/-LinkedIn-blue)](https://www.youtube.com/channel/UCYFX9iGpHemve3LiRmFQSEw)
