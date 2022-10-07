@@ -15,10 +15,12 @@ This is Arash. I am an assistant professor at the University of Leeds, School of
 
 
 
-### Github Stats
+### Language
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArashRabbani&theme=blueberry_duo"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArashRabbani&layout=compact&theme=github_dark"/>
+<!---
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArashRabbani&theme=blueberry_duo"/>
+-->
 
 ### Links
 
