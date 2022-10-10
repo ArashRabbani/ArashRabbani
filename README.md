@@ -4,17 +4,7 @@
 ### Hi there! 
 This is Arash. I am an assistant professor at the University of Leeds, School of Computing. I teach AI and write codes in image segmentation and machine learning for porous material and cardiovascular applications. Currently, I am leading [DataFlowLab](https://www.dataflowlab.org) an interdisciplinary research group that tackles real-world problems of micro-scale fluid/solid interactions by harnessing the power of data-driven methods. 
 
-<style>
-r { color: Red }
-o { color: Orange }
-g { color: Green }
-</style>
 
-# TODOs:
-
-- <r>TODO:</r> Important thing to do
-- <o>TODO:</o> Less important thing to do
-- <g>DONE:</g> Breath deeply and improve karma
 
 
 ### Porous media repositories 
