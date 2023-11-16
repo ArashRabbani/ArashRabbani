@@ -13,7 +13,7 @@ This is Arash. I am an assistant professor at the University of Leeds, School of
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArashRabbani&repo=Superpixels_PNM&theme=blue-green)](https://github.com/ArashRabbani/Superpixels_PNM)
 
 
-## 2-Cardiovascular repositories
+## 2-Medical imaging repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArashRabbani&repo=AutoEncoderHeartCT&theme=blue-green)](https://github.com/ArashRabbani/AutoEncoderHeartCT)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArashRabbani&repo=VentricleTrack&theme=blue-green)](https://github.com/ArashRabbani/VentricleTrack)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArashRabbani&repo=VentricleVolume&theme=blue-green)](https://github.com/ArashRabbani/VentricleVolume)
