@@ -27,6 +27,7 @@ This is Arash. I am an assistant professor at the University of Leeds, School of
 
 ## 5-Feeling bored?
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArashRabbani&repo=Porous-Memory-Game&theme=blue-green)](https://github.com/ArashRabbani/Porous-Memory-Game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArashRabbani&repo=Mosaic_Maker&theme=blue-green)](https://github.com/ArashRabbani/Mosaic_Maker)
 
 
 
