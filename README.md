@@ -1,7 +1,7 @@
 ![Banner](https://github.com/ArashRabbani/ArashRabbani/blob/main/bk.gif)
 
 ## Hi there! 
-This is Arash. I am an assistant professor at the University of Leeds, School of Computer Science. I teach AI and write codes for image segmentation and machine learning applied to materials science and medical imaging applications. Currently, I am leading [DataFlowLab](https://www.dataflowlab.org) an interdisciplinary research group to understand micro-scale materials and tissue through machine vision and AI. 
+This is Arash. I am an assistant professor at the University of Leeds, School of Computer Science. I teach AI and write codes for image segmentation and machine learning applied to materials science and medical imaging applications. Currently, I am leading [DataFlowLab](https://www.dataflowlab.org) an interdisciplinary research group to understand micro-scale materials and tissue through machine vision and AI. Here are some repositories I have contributed to in the past years: 
 
 ## 1-Porous material repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArashRabbani&repo=DeePore&theme=blue-green)](https://github.com/ArashRabbani/DeePore)
