@@ -44,10 +44,6 @@ This is Arash. I am an assistant professor at the University of Leeds, School of
 | [Porous-Memory-Game](https://github.com/ArashRabbani/Porous-Memory-Game) | A memory game with porous material images |
 | [Mosaic_Maker](https://github.com/ArashRabbani/Mosaic_Maker) | Create mosaics from image collections |
 
-## Language
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArashRabbani&layout=compact&theme=github_dark"/>
-
 ## Links
 
 [![YT](https://img.shields.io/badge/-Youtube-red)](https://www.youtube.com/channel/UCYFX9iGpHemve3LiRmFQSEw)
