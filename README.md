@@ -47,7 +47,5 @@ This is Arash. I am an assistant professor at the University of Leeds, School of
 ## Links
 
 [![YT](https://img.shields.io/badge/-Youtube-red)](https://www.youtube.com/channel/UCYFX9iGpHemve3LiRmFQSEw)
-![](https://img.shields.io/youtube/channel/subscribers/UCYFX9iGpHemve3LiRmFQSEw?style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCYFX9iGpHemve3LiRmFQSEw?style=social)
 <br/>
 [![YT](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/arash-rabbani/)
